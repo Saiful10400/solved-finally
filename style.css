@@ -1,0 +1,80 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+
+/* container section */
+
+.container{ 
+    width: 80%;
+    margin: auto;
+} 
+
+
+
+/* banner section */
+
+
+#banner{
+
+margin-top: 40px;
+
+background-color: #a29bfe;
+
+padding: 65px 58px;
+
+box-sizing: border-box;
+
+border-radius: 10px;
+}
+
+.banner h1{
+    font-size: 62px;
+}
+.banner p{
+    font-size: 21px;
+    line-height: 1.6;
+}
+.banner .button{}
+.banner .button button{
+    color: white;
+    background-color: #137dc9;
+    padding: 23px;
+    font-size: 33px;
+    margin-top: 30px;
+    border-radius: 20px;
+    border: none;
+    box-shadow: 2px 3px 6px 5px #0000008c;
+    cursor: pointer;
+}
+
+
+/* little headeing */
+
+little-heading-parent{}
+
+.little-heading{
+    width: 31%;
+    display: inline-block;
+    text-align: justify;
+    padding: 40px 0;
+    margin: 0 9px;
+}
+
+.little-heading-button{
+    color: white;
+    background-color: #137dc9;
+    padding: 23px;
+    font-size: 9px;
+    margin-top: 30px;
+    border-radius: 20px;
+    border: none;
+    box-shadow: 2px 3px 6px 5px #0000008c;
+    cursor: pointer;
+    footer{}
+    footer h5{
+    font-size: 18px;
+    margin-top: 4px;
+    font-weight: bolder;
+}
+ 
